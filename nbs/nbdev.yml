@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_card2"
+  site-url: "https://falconkinder810.github.io/nbdev_card2"
+  description: "git pull ssh test"
+  repo-branch: main
+  repo-url: "https://github.com/falconkinder810/nbdev_card2"
